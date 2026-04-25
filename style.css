@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+}
+
+.paragraf {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+}
+
+#paragraf {
+  color: green;
+  font-size: 24px;
+  text-align: center;
+}
